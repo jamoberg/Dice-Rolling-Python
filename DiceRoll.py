@@ -1,6 +1,6 @@
 #!/usr/bin/python
-
 import random
+
 min = 1
 max = 6
 rollAgain = "yes"
